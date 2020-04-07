@@ -1,5 +1,6 @@
 ### <h1>GitHub 기본 사용 방법<h1>
-:1: repository/version control/branch/commit 설명
+
+repository/version control/branch/commit 설명
   
   <a text-align="center" href= "https://park-cheonho.github.io/test1/">설명 페이지 & 동영상 링크</a>
   
